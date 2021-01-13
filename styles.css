@@ -228,7 +228,8 @@ video {
   margin-top: 50px;
 }
 /*---- footer quick fix ----*/
-.footer-booking {
+.footer-booking,
+.footer-contact {
   position: absolute;
   bottom: 0;
   left: 0;
